@@ -1,6 +1,6 @@
 /**
 * Inserts line breaks between each film in the string and removes any alternate titles
-* @param {string} movieTitlesString
+* @param {string} movieTitlesString - a string of movie titles to parse
 * @returns {string}
 */
 const insertBreaks = (movieTitlesString) => {
